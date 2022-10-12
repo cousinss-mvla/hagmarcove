@@ -1,0 +1,36 @@
+{
+  "tiles": [
+    {
+      "id": "0",
+      "meta": [
+        "grass_01", 
+        "grass_02",
+        "grass_03"
+      ],
+      "behavior": "environment_ground"
+    },
+    {
+      "id": "1",
+      "meta": [
+        "sand_01"
+      ],
+      "behavior": "environment_ground"
+    },
+    {
+      "id": "2",
+      "meta": [
+        "stone_01"
+      ],
+      "behavior": "environment_ground"
+    }, 
+    {
+      "id": "3",
+      "meta": [
+        "water_01", 
+        "water_02",
+        "water_03"
+      ],
+      "behavior": "environment_ground"
+    }
+  ]
+}
